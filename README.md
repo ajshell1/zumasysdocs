@@ -1,3 +1,9 @@
+#NOTE
+
+This is a version of the docs as they existed before Zumasys removed the jbase section. As Rocket's own jbase documentation is currently giving me "not found" errors (2023/03/28), I'm hosting this. And because I want a consistent place where I can find the documentation in the future.
+
+I may or may not make changes to the docs, based on my own experience with them.
+
 # Zumasys Documentation
 
 ![](https://github.com/zumasys/docs/workflows/Deploy%20to%20Azure/badge.svg)
